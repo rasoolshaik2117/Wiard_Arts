@@ -1,0 +1,153 @@
+body{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(67, 78, 78);
+    background-attachment: scroll;
+    border: solid grey 2px;
+    border-radius: 15px;
+    box-shadow: salmon 52px;
+    overflow-y: scroll;
+}
+h1{
+    height: 15px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+.gap{
+    background-color: rgb(67, 78, 78);
+    height: 20px;
+}
+a{
+    color: rgb(0, 0, 0);
+    background-color: rgba(84, 74, 74,0.3);
+    border: 0px;
+    border-radius: 4px;
+    
+
+}
+a.ref{
+    
+    background-color: rgb(110, 191, 191);
+}
+#insta{
+    color: #ffffff;
+}
+.dem{
+    height: 50px;
+     background-color: rgb(110, 191, 191);
+     color: #ffffff;
+     text-align:center;
+     border: 0px;
+     border-radius: 10px;
+}
+
+.icons{
+    height: 60px;
+    padding: 5px;
+    padding-bottom: 10px;
+    background-color: rgb(110, 191, 191);
+}
+
+.info{
+    background-color: rgb(110, 191, 191);
+    padding: 5px;
+    padding-left: 10px;
+}
+.logo1{
+    text-align: center;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.logo{
+    background-color: #ffffff;
+    border: 0px;
+    border-radius: 50%;
+    box-shadow: 0px 30px 55px rgbs(48, 51, 51, 0.1);
+}
+
+.header{
+    background-color: rgb(110, 191, 191);
+    height: 80px;
+    border-radius: 15px 15px 0px 0px;
+    color: #ffffff;
+    padding-top: 20px ;
+    padding-bottom: 20px;
+
+}
+#pic{
+    width: 100%;
+    height: 450px;
+}
+u{
+    color: rgba(0, 0, 0, 0.607);
+}
+
+.portfolio{
+    color: #ffffff;
+    background-color: rgb(110, 191, 191);
+    height: 60px;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 25px;
+    
+}
+
+.profile{
+    height: 400px;
+}
+.R{
+    width: 10px;
+    background-color: rgb(110, 191, 191);
+    
+}
+.quote{
+    color: #ffffff;
+    height: 400px;
+    overflow: hidden;
+    background-attachment: scroll;
+    overflow-y: scroll;
+    
+}
+.container-fluid{
+    
+    
+}
+
+.content{
+    color: #ffffff;
+}
+.footer{
+    background-color: rgb(110, 191, 191);
+    height: 250px;
+    align-items: center;
+    text-align: center;
+    
+    border-radius:  0px 0px 15px 15px;
+}
+
+#stencil{
+    height: 50px;
+    background-color: rgb(110, 191, 191);
+    border: 0px;
+    border-radius: 10px;
+}
+#family{
+     width: 100%;
+    height: 100%;
+
+}
+
+#pk{
+    width: 100%;
+    height: 100%;
+}
+
+#img{
+    width: 100%;
+    height: 100%;
+    border: 10px solid rgb(110, 191, 191) ;
+    align-items: center;
+    background:rgb(110, 191, 191)  ;
+}
